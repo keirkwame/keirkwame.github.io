@@ -3,9 +3,9 @@ main:
   - title: "Publications"
     url: https://arxiv.org/search/?query=keir+rogers&searchtype=all&source=header
 
-  - title: "Talks"
-    url: /talks/    
-
+#  - title: "Talks"
+#    url: /talks/
+#
 #  - title: "Teaching"
 #    url: /teaching/
 #
@@ -15,9 +15,9 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
 #
-  - title: "CV"
-    url: /cv/
-
+#  - title: "CV"
+#    url: /cv/
+#
   - title: "Primordial Universe"
     url: https://www.earlyuniverse.org/a-clear-view-of-the-primordial-universe
 
