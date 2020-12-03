@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://arxiv.org/search/?query=keir+rogers&searchtype=all&source=header
 
   - title: "Talks"
     url: /talks/    
@@ -17,7 +17,10 @@ main:
 #
   - title: "CV"
     url: /cv/
-    
+
+  - title: "Primordial Universe"
+    url: https://www.earlyuniverse.org/a-clear-view-of-the-primordial-universe
+
 #  - title: "Guide"
 #    url: /markdown/
 #
