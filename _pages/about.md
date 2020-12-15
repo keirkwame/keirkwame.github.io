@@ -1,6 +1,6 @@
 ---
 permalink: /
-excerpt: "About me"
+excerpt: "Keir K. Rogers's academic webpage"
 author_profile: true
 redirect_from: 
   - /about/
