@@ -15,9 +15,9 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
 #
-#  - title: "CV"
-#    url: /cv/
-#
+  - title: "CV"
+    url: https://www.dunlap.utoronto.ca/~keir.rogers/cv_keir_k_rogers.pdf
+
   - title: "Primordial Universe"
     url: https://www.earlyuniverse.org/a-clear-view-of-the-primordial-universe
 
