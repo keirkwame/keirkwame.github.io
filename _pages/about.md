@@ -24,7 +24,7 @@ Emulators are an ML-based model for predicting the output of simulations. Gaussi
 In particular, I worked on applying Bayesian optimisation to constructing emulators for cosmological analyses. This entails iteratively building up the training set, maximising a combination of sampling high posterior probability parameter space and reducing uncertainty in the emulator prediction. This leads to two major advantages. Tests of convergence in parameter inference with respect to the emulator model can be carried out. Further, it makes the use of emulators feasible in high-dimensional physical models by efficient sampling of parameter space. This is very important for large-scale structure studies, where forward modelling is computationally expensive and there are many free parameters.
 
 ## Cosmic microwave background
-A
+A limiting factor in measuring the primordial inflationary tensor modes in the CMB is contamination from polarised dust emission in the Milky Way. I studied the problem of removing this contamination using a signal processing technique called spin-directional wavelets. These were able for the first time to exploit morphological information in the filamentary structure of dust emission to improve the reconstruction of the primordial signal. You can find more details and the cleaned *Planck* data products [here](http://www.silc-cmb.org).
 
 ## High-density absorbers in the IGM
 A
