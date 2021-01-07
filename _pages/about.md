@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a cosmologist who started a [Dunlap Fellowship](https://www.dunlap.utoronto.ca/people/dunlap-fellows) at the end of 2020.
+I'm a cosmologist who started a [Dunlap Fellowship](https://www.dunlap.utoronto.ca/people/dunlap-fellows) at the University of Toronto at the end of 2020. Before that, I was a postdoctoral fellow at the [Oskar Klein Centre for Cosmoparticle Physics](http://www.okc.albanova.se) at Stockholm University. I defended my PhD thesis ([*A clear view of the primordial Universe*](https://discovery.ucl.ac.uk/id/eprint/10044716)) at [University College London](https://www.ucl.ac.uk/astrophysics), after obtaining my Master's degree at the [University of Oxford](https://www2.physics.ox.ac.uk).
 
 My research focuses on understanding fundamental physics in the cosmological model -- and developing robust statistical and machine learning models and methods to improve parameter inference. In particular, I have worked on tests of dark matter models (ultra-light axions) using cosmological data. I study both the cosmic microwave background -- the oldest light in the Universe -- and the large-scale structure, in particular, the Lyman-alpha forest, the neutral hydrogen absorption in quasar spectra from the early Universe. I work at the intersection of data, theory, simulations and analysis methods, for example, with cosmological emulators and wavelet decomposition.
 
