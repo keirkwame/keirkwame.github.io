@@ -9,8 +9,8 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/
 #
-#  - title: "Portfolio"
-#    url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
 #
 #  - title: "Blog Posts"
 #    url: /year-archive/
@@ -21,9 +21,9 @@ main:
   - title: "Primordial Universe"
     url: https://www.earlyuniverse.org/a-clear-view-of-the-primordial-universe
 
-  - title: "Ultralight axion limits"
-    url: /ULA-limits/
-
+#  - title: "Ultralight axion limits"
+#    url: /ULA-limits/
+#
 #  - title: "Guide"
 #    url: /markdown/
 #
