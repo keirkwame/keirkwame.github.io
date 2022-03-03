@@ -9,9 +9,6 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/
 #
-#  - title: "Portfolio"
-#    url: /portfolio/
-#
 #  - title: "Blog Posts"
 #    url: /year-archive/
 #
@@ -20,6 +17,9 @@ main:
 
   - title: "Primordial Universe"
     url: https://www.earlyuniverse.org/a-clear-view-of-the-primordial-universe
+
+  - title: "Ultralight DM bounds"
+    url: /portfolio/
 
 #  - title: "Guide"
 #    url: /markdown/
