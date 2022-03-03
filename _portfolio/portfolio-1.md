@@ -1,6 +1,6 @@
 ---
 title: "Ultralight axion dark matter bounds"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Cosmological/astrophysical bounds on the ultralight axion energy density as a function of particle mass. Solid = current bound; thick line = projected bound<br/><img src='/images/UDM_astro_complete.pdf'>"
 collection: portfolio
 ---
 
