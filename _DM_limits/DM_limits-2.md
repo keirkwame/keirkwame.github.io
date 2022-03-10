@@ -1,6 +1,6 @@
 ---
 title: "Ultra-light axions (cosmological)"
-excerpt: "Cosmological bounds on the ultralight axion energy density as a function of particle mass. Solid = current bound; thick line = projected bound<br/><img src='/images/UDM_cosmo_complete.png'>"
+excerpt: "Cosmological limits on the ultra-light axion energy density vs. particle mass.<br/>Solid = current limit; thick line = projected limit (Stage IV sensitivity)<br/><img src='/images/UDM_cosmo_complete.png'>"
 collection: DM_limits
 ---
 

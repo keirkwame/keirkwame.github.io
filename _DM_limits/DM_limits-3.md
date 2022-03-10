@@ -1,6 +1,6 @@
 ---
 title: "Sub-GeV dark matter (proton-DM cross section)"
-excerpt: "Cosmological bounds on the ultralight axion energy density as a function of particle mass. Solid = current bound; thick line = projected bound<br/><img src='/images/bDM_cosmo.png'>"
+excerpt: "Limits on the proton-DM cross section vs. particle mass.<br/><img src='/images/bDM_cosmo.png'>"
 collection: DM_limits
 ---
 
