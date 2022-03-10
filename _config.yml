@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolioa:
+  DM_limits:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolioa
+  # _DM_limits
   - scope:
       path: ""
-      type: portfolioa
+      type: DM_limits
     values:
       layout: single
       author_profile: true
