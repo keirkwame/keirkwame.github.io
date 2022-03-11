@@ -11,7 +11,7 @@ I'm a cosmologist who started a [Dunlap Fellowship](https://www.dunlap.utoronto.
 
 My research focuses on understanding fundamental physics in the cosmological model -- and developing robust statistical and machine learning models and methods to improve parameter inference. In particular, I have worked on tests of dark matter models (ultra-light axions, light dark matter) using cosmological data. I study both the cosmic microwave background (CMB) -- the oldest light in the Universe -- and the large-scale structure, in particular, the Lyman-alpha forest, the neutral hydrogen absorption in quasar spectra from the early Universe. I work at the intersection of data, theory, simulations and analysis methods, for example, with cosmological emulators and wavelet decomposition.
 
-Above, you can find links to my publications list on the arXiv, to my *curriculum vitae* and to an outreach article I wrote about some of my research: *A clear view of the primordial Universe*.
+Above, you can find links to my publications list on the arXiv, to my *curriculum vitae*, to an outreach article I wrote about some of my research: *A clear view of the primordial Universe*, to a website collating astrophysical limits on dark matter, and to clean maps of the CMB that I created using a novel component separation method.
 
 Below, you can find out more about some of my research.
 
