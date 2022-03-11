@@ -4,4 +4,4 @@ excerpt: "Cosmological limits on the ultra-light axion energy density vs. partic
 collection: DM_limits
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+CMB = Cosmic microwave background (solid = Planck; projection = CMB-S4)<br/>+BOSS = CMB + galaxy clustering (Baryon Oscillation Spectroscopic Survey)<br/>+DES = CMB + galaxy weak lensing shear (Dark Energy Survey)<br/>Lyaf = Lyman-alpha forest<br/>Rei. = High-redshift UV luminosity function + optical depth to reionisation<br/>MW = Milky Way sub-halo mass function<br/>kSZ-S4 = Kinetic Sunyaev-Zeldovich effect (projection = CMB-S4)<br/>OV-S4 = Ostriker-Vishniac effect (projection = CMB-S4)<br/>BibTex for references and public code to follow. 

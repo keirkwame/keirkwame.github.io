@@ -4,4 +4,4 @@ excerpt: "Limits on the proton-DM cross section vs. particle mass.<br/><img src=
 collection: DM_limits
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+CMB = Cosmic microwave background (Planck)<br/>Lyaf (SDSS-I) = Lyman-alpha forest (Sloan Digital Sky Survey I)<br/>Lyaf (HIRES/UVES) = Lyman-alpha forest (Keck-HIRES; VLT-UVES)<br/>MW satellites = Milky Way sub-halo mass function<br/>XQC = X-ray Quantum Calorimeter<br/>Direct detection = CRESST-surface; EDELWEISS-Surf<br/>BibTex for references and public code to follow.
