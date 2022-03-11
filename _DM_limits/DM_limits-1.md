@@ -4,4 +4,4 @@ excerpt: "Cosmological/astrophysical limits on the ultra-light axion energy dens
 collection: DM_limits
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+CMB = Cosmic microwave background (solid = Planck; projection = CMB-S4)<br/>+BOSS = CMB + galaxy clustering (Baryon Oscillation Spectroscopic Survey)<br/>+DES = CMB + galaxy weak lensing shear (Dark Energy Survey)<br/>Lyaf = Lyman-alpha forest<br/>Rei. = High-redshift UV luminosity function + optical depth to reionisation<br/>MW = Milky Way sub-halo mass function<br/>SPARC = Galaxy rotation curves in SPARC database<br/>Eri.-II = Central star cluster in dwarf galaxy Eridanus-II<br/>BHSR = black hole superradiance<br/>kSZ = kinetic Sunyaev-Zeldovich effect (projection = CMB-S4)<br/>kSZ-OV = Ostriker-Vishniac effect (projection = CMB-HD)<br/>SKA-IM = Intensity mapping (projection = Square Kilometre Array)<br/>Bibtex for references and public code to follow.
