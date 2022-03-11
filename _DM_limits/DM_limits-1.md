@@ -1,6 +1,6 @@
 ---
 title: "Ultra-light axions"
-excerpt: "Cosmological/astrophysical limits on the ultra-light axion energy density vs. particle mass.<br/>Solid = current limit; thick line = projected limit.<br/><img src='/images/UDM_astro_complete.png'>"
+excerpt: "Cosmological/astrophysical limits (two sigma) on the ultra-light axion energy density vs. particle mass.<br/>Solid = current limit; thick line = projected limit.<br/><img src='/images/UDM_astro_complete.png'>"
 collection: DM_limits
 ---
 
