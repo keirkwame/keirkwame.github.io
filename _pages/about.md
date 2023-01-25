@@ -16,7 +16,7 @@ Above, you can find links to my publications list on the arXiv, to my *curriculu
 Below, you can find out more about some of my research.
 
 ## Dark matter
-<img src='/images/UDM_astro_complete.png'>
+<img src='/images/comparisonUS.pdf'>
 
 I used the Lyman-alpha forest to place a strong bound on the canonical mass range for ultra-light axions to be the dark matter (ULADM; "fuzzy dark matter"). The mass range of 10<sup>-22</sup> eV to 10<sup>-21</sup> eV, motivated by the string axiverse and solutions to possible tensions in the cold dark matter model, is heavily disfavoured in our study. The study looked for the characteristic cut-off in the matter power spectrum associated with ULADM as traced by the Lyman-alpha forest. Its non-detection placed a 95% credibility upper limit on the axion mass at 2 x 10<sup>-20</sup> eV. I am also in collaborations using CMB and galaxy data to look for mixed axion dark matter as suggested by the string axiverse.
 
