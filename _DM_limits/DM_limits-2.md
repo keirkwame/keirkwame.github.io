@@ -1,6 +1,6 @@
 ---
 title: "Ultra-light axions (cosmological)"
-excerpt: "Cosmological limits (two sigma) on the ultra-light axion energy density vs. particle mass.<br/>Solid = current limit; thick line = projected limit (Stage IV sensitivity)<br/><img src='/images/UDM_cosmo_complete.png'>"
+excerpt: "Cosmological limits (two sigma) on the ultra-light axion energy density vs. particle mass.<br/>Solid = current limit; thick line = projected limit (Stage IV sensitivity)<br/><img src='/images/UDM_forecast_GUT_paper23.png'>"
 
 collection: DM_limits
 ---
