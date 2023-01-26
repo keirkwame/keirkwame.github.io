@@ -1,6 +1,6 @@
 ---
 title: "Sub-GeV dark matter (proton-DM cross section)"
-excerpt: "Limits (two sigma) on the proton-DM cross section vs. particle mass.<br/><img src='/images/bDM_cosmo.png'>"
+excerpt: "Limits (two sigma) on the spin-independent proton-DM cross section vs. particle mass.<br/><img src='/images/bDM_cosmo.png'>"
 collection: DM_limits
 ---
 
