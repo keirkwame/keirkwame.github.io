@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Keir K. Rogers"
   avatar           : "rogers-k-2020.jpg"
-  bio              : "Cosmology, dark matter, statistical methods, machine learning. Dunlap Fellow, University of Toronto"
-  location         : "Toronto, Canada"
-  employer         : "University of Toronto"
+  bio              : "Cosmology, dark matter, statistical methods, machine learning. STFC Ernest Rutherford Fellow, Imperial College London"
+  location         : "London, UK"
+  employer         : "Imperial College London"
   pubmed           :
   googlescholar    :
-  email            : "keir.rogers@utoronto.ca"
+  email            : "k.rogers24@imperial.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
