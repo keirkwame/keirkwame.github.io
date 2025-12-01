@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Keir K. Rogers"
   avatar           : "rogers-k-2020.jpg"
-  bio              : "Cosmology, dark matter, statistical methods, machine learning. STFC Ernest Rutherford Fellow, Imperial College London"
+  bio              : "Cosmology, dark matter, statistical methods, artificial intelligence. Proleptic Senior Lecturer in Physics, UKRI STFC Ernest Rutherford Fellow, King's College London"
   location         : "London, UK"
-  employer         : "Imperial College London"
+  employer         : "King's College London"
   pubmed           :
   googlescholar    :
-  email            : "k.rogers24@imperial.ac.uk"
+  email            : "keir.rogers@kcl.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
