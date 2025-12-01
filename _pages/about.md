@@ -11,7 +11,7 @@ I'm a cosmologist who is a Proleptic Senior Lecturer in Physics and a UKRI STFC 
 
 My research focuses on understanding fundamental physics in the cosmological model -- and developing robust statistical and artificial intelligence/machine learning models and methods to improve parameter inference. In particular, I have worked on tests of dark matter models (ultra-light axions, light dark matter) using cosmological data. I study the cosmic microwave background (CMB -- the oldest light in the Universe), the large-scale structure and the sub-structure of the Milky Way. I work at the intersection of data, theory, simulations and analysis methods, for example, with cosmological emulators, wavelet decomposition and simulation-based inference.
 
-Above, you can find links to my publications list on the arXiv, to my *curriculum vitae*, to a website collating astrophysical limits on dark matter, and to clean maps of the CMB that I created using a novel component separation method.
+Above, you can find links to my publications list on INSPIRE-HEP, to my *curriculum vitae*, to a website collating astrophysical limits on dark matter, and to clean maps of the CMB that I created using a novel component separation method.
 
 Below, you can find out more about some of my research.
 
